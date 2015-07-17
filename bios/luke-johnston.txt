@@ -1,1 +1,9 @@
 Hi! I'm Luke! I'm doing a PhD at U of T in Nutritional Sciences, and am a great professor!
+=======
+Hi! I'm Luke! I'm doing a PhD at U of T in Nutritional Sciences.
+I'm doing SWC at SickKids right now!
+
+
+
+I like data analysis a lot :)
+>>>>>>> a2f22e82133cbf9dc0acbfbc7163280967472851
